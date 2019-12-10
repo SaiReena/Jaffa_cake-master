@@ -1,14 +1,13 @@
 body {
-  background-image: url('../images/ESTE-COUTURE-683x1024.jpg');
+  background-image: url('./images/Radhi.jpeg');
   width: 100vw;
   height: 100vh;
-  background-position: center;
+  background-position: right;
+  background-color: black;
   background-repeat: no-repeat;
-  background-size: cover;
+  /* background-size: ; */
 }
 
-
-h1 {
-  font-family: "FreightDisp Pro", Helvetica, sans-serif;
-  text-align: center;
+img {
+  image-orientation: right;
 }
