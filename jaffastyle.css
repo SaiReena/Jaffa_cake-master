@@ -1,5 +1,5 @@
 body {
-  background-image: url('./images/Radhi.jpeg');
+  /* background-image: url('./images/Radhi.jpeg'); */
   width: 100vw;
   height: 100vh;
   background-position: right;
@@ -8,6 +8,6 @@ body {
   /* background-size: ; */
 }
 
-img {
-  image-orientation: right;
+#background {
+    width: 75%;
 }
